@@ -1,0 +1,15 @@
+C:\Users\Kirill\source\repos\Snakes and Laddders\Snakes and Laddders\bin\Debug\Snakes and Laddders.exe.config
+C:\Users\Kirill\source\repos\Snakes and Laddders\Snakes and Laddders\bin\Debug\Snakes and Laddders.exe
+C:\Users\Kirill\source\repos\Snakes and Laddders\Snakes and Laddders\bin\Debug\Snakes and Laddders.pdb
+C:\Users\Kirill\source\repos\Snakes and Laddders\Snakes and Laddders\obj\Debug\Snakes and Laddders.csproj.AssemblyReference.cache
+C:\Users\Kirill\source\repos\Snakes and Laddders\Snakes and Laddders\obj\Debug\MainWindow.g.cs
+C:\Users\Kirill\source\repos\Snakes and Laddders\Snakes and Laddders\obj\Debug\App.g.cs
+C:\Users\Kirill\source\repos\Snakes and Laddders\Snakes and Laddders\obj\Debug\Snakes and Laddders_MarkupCompile.cache
+C:\Users\Kirill\source\repos\Snakes and Laddders\Snakes and Laddders\obj\Debug\Snakes and Laddders_MarkupCompile.lref
+C:\Users\Kirill\source\repos\Snakes and Laddders\Snakes and Laddders\obj\Debug\MainWindow.baml
+C:\Users\Kirill\source\repos\Snakes and Laddders\Snakes and Laddders\obj\Debug\Snakes and Laddders.g.resources
+C:\Users\Kirill\source\repos\Snakes and Laddders\Snakes and Laddders\obj\Debug\Snakes_and_Laddders.Properties.Resources.resources
+C:\Users\Kirill\source\repos\Snakes and Laddders\Snakes and Laddders\obj\Debug\Snakes and Laddders.csproj.GenerateResource.cache
+C:\Users\Kirill\source\repos\Snakes and Laddders\Snakes and Laddders\obj\Debug\Snakes and Laddders.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\source\repos\Snakes and Laddders\Snakes and Laddders\obj\Debug\Snakes and Laddders.exe
+C:\Users\Kirill\source\repos\Snakes and Laddders\Snakes and Laddders\obj\Debug\Snakes and Laddders.pdb
